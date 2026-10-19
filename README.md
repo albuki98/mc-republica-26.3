@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.4.0-mca** (publicada el 19/10/2026 21:12)
+**Versión actual: 0.5.0** (publicada el 19/10/2026 21:14)
 
-Cooperativa 0.4.0 + MCA Remastered 8.2.0: los aldeanos del pueblo ahora son personas con nombre y personalidad.
+Novedad: guia de la cooperativa dentro del juego (tecla G o el libro rojo del inventario) y pestana "Republica de los Bloques" en creativo. Incluye MCA Remastered: los aldeanos del pueblo son personas con nombre y personalidad.
 
 ## Descargar
 
@@ -25,13 +25,14 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 ## Qué incluye
 
 - `chisel-fabric-2.2.1+mc26.3.jar`
-- `cooperativa-cigarros-0.4.0.jar`
-- `cooperativa-cuadros-0.4.0.jar`
-- `cooperativa-decoracion-0.4.0.jar`
-- `cooperativa-esculpido-0.4.0.jar`
-- `cooperativa-estandartes-0.4.0.jar`
-- `cooperativa-vestimenta-0.4.0.jar`
-- `cooperativa-vida-0.4.0.jar`
+- `cooperativa-cigarros-0.5.0.jar`
+- `cooperativa-cuadros-0.5.0.jar`
+- `cooperativa-decoracion-0.5.0.jar`
+- `cooperativa-esculpido-0.5.0.jar`
+- `cooperativa-estandartes-0.5.0.jar`
+- `cooperativa-nucleo-0.5.0.jar`
+- `cooperativa-vestimenta-0.5.0.jar`
+- `cooperativa-vida-0.5.0.jar`
 - `cryonicconfig-fabric-1.0.0+mc26.3.jar`
 - `fabric-api-0.162.0+26.3.jar`
 - `mcarem-fabric-8.2.0+26.3.jar`
@@ -52,4 +53,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 1.
+Secuencia de publicación: 2.
