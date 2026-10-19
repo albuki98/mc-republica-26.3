@@ -2,7 +2,7 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.5.0** (publicada el 19/10/2026 21:14)
+**Versión actual: 0.5.0** (publicada el 19/10/2026 21:39)
 
 Novedad: guia de la cooperativa dentro del juego (tecla G o el libro rojo del inventario) y pestana "Republica de los Bloques" en creativo. Incluye MCA Remastered: los aldeanos del pueblo son personas con nombre y personalidad.
 
@@ -17,7 +17,7 @@ Novedad: guia de la cooperativa dentro del juego (tecla G o el libro rojo del in
 3. Cierra el launcher. Descomprime el ZIP (clic derecho → *Extraer todo*) y haz doble clic en **`Instalar.bat`**.
 4. Abre el launcher, elige **«Republica de los Bloques 26.3»** junto al botón *Jugar* y juega.
    La primera vez sale una ventanita descargando los mods.
-5. Servidor: `ambulance-highlands.tun.ply.gg:55034` (tu nombre tiene que estar en la lista blanca).
+5. La dirección del servidor te la da el administrador por privado (si ya jugabas, ya está en tu lista de Multijugador). Tu nombre tiene que estar en la lista blanca.
 
 A partir de ahí no tienes que hacer nada: cuando haya una versión nueva se descarga sola al darle a *Jugar*.
 Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuelve a abrirlo.
@@ -53,4 +53,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 2.
+Secuencia de publicación: 3.
