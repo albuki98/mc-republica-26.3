@@ -2,7 +2,7 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.5.0** (publicada el 19/10/2026 21:14)
+**Versión actual: 0.5.0** (publicada el 19/10/2026 21:39)
 
 Novedad: guia de la cooperativa dentro del juego (tecla G o el libro rojo del inventario) y pestana "Republica de los Bloques" en creativo. Incluye MCA Remastered: los aldeanos del pueblo son personas con nombre y personalidad.
 
@@ -53,4 +53,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 2.
+Secuencia de publicación: 3.
