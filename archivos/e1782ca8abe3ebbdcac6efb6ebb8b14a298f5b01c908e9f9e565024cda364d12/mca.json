@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "overwriteOriginalVillagers": false,
+  "overwriteOriginalZombieVillagers": false,
+  "overwriteAllZombiesWithZombieVillagers": false,
+  "overwriteOriginalPillagers": false,
+  "overwriteOriginalVindicators": false,
+  "overwriteOriginalEvokers": false,
+  "overwriteOriginalWitches": false,
+  "enableVillagerChatAI": false,
+  "enableOnlineTTS": false,
+  "trackVillagerPosition": false,
+  "enableInfection": false,
+  "launchIntoDestiny": false,
+  "allowDestinyTeleportation": false,
+  "allowDestinyCommandOnce": false,
+  "allowDestinyCommandMoreThanOnce": false
+}
