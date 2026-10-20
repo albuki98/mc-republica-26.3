@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.5** (publicada el 20/10/2026 17:17)
+**Versión actual: 0.6.6** (publicada el 20/10/2026 23:31)
 
-Aviso de musica en la pausa abajo a la derecha (antes quedaba debajo del logo) y nombres de las piezas sovieticas en ese aviso
+El boton Entrar al koljos entra siempre a nuestro servidor aunque no sea el primero de tu lista de Multijugador; si no lo tienes guardado, abre Multijugador para anadirlo
 
 ## Descargar
 
@@ -55,4 +55,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 17.
+Secuencia de publicación: 18.
