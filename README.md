@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.5.9** (publicada el 20/10/2026 12:40)
+**Versión actual: 0.6.4** (publicada el 20/10/2026 15:49)
 
-Opciones propias con submenus a juego, Pravda sin noticias cortadas, sin aviso de shaders de Litematica, iconos de los paquetes integrados
+Incluye 0.6.0-0.6.3 (medios aparte, opciones y Tab del koljos, fechas senaladas, consejos, sin cuelgues en el menu, HUD con estrellas, espigas y cascos) y vuelve a la mira normal de Minecraft
 
 ## Descargar
 
@@ -31,6 +31,7 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 - `cooperativa-esculpido-0.5.0.jar`
 - `cooperativa-estandartes-0.5.0.jar`
 - `cooperativa-interfaz-0.5.0.jar`
+- `cooperativa-interfaz-recursos-0.5.0.jar`
 - `cooperativa-nucleo-0.5.0.jar`
 - `cooperativa-vestimenta-0.5.0.jar`
 - `cooperativa-vida-0.5.0.jar`
@@ -54,4 +55,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 11.
+Secuencia de publicación: 16.
