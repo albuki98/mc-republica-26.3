@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.5.4** (publicada el 20/10/2026 10:28)
+**Versión actual: 0.5.9** (publicada el 20/10/2026 12:40)
 
-Ajustes de la interfaz: el menu entra directamente en el Koljos Octubre Rojo (sin boton de otros servidores), indica Servidor activo con una marca, la mira es una estrella pequena y discreta y ya no sale el aviso de mensajes de chat no verificados al entrar.
+Opciones propias con submenus a juego, Pravda sin noticias cortadas, sin aviso de shaders de Litematica, iconos de los paquetes integrados
 
 ## Descargar
 
@@ -54,4 +54,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 6.
+Secuencia de publicación: 11.
