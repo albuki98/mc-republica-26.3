@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.5.1** (publicada el 20/10/2026 01:26)
+**Versión actual: 0.5.3** (publicada el 20/10/2026 01:59)
 
-Nueva interfaz sovietica: logo de la URSS, sala de retratos en el menu, musica de la epoca, boton directo al servidor y pantallas de carga con datos historicos. Se puede desactivar en Opciones, Paquetes de recursos.
+Interfaz sovietica completa: botones, paneles, barra de objetos e inventario recoloreados, mira de estrella, avisos, libros, mapas y logros ambientados, tipografia de cartel, clic de maquina de escribir, mensajes del chat (incorporarse al turno, objetivos, muertes), aviso de bienvenida al entrar, 43 datos historicos en las pantallas de carga, segunda sala del cosmos en el menu y musica sovietica tambien durante la partida (paquete desactivable aparte en Paquetes de recursos).
 
 ## Descargar
 
@@ -54,4 +54,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 4.
+Secuencia de publicación: 5.
