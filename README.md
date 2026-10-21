@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.7** (publicada el 21/10/2026 23:12)
+**Versión actual: 0.6.8** (publicada el 21/10/2026 23:40)
 
-Nuevos bloques de construcción: losas verticales, escaleras de lado y cuartos de bloque (mod Extended Block Shapes). Solo hay que cerrar y volver a abrir el juego.
+Losas mixtas: pon dos losas de materiales distintos en el mismo bloque (clic derecho con una losa en la cara libre de otra; agachado se coloca normal). Al romper se quita solo la mitad que miras.
 
 ## Descargar
 
@@ -28,7 +28,7 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 - `cooperativa-cigarros-0.5.0.jar`
 - `cooperativa-cuadros-0.5.0.jar`
 - `cooperativa-decoracion-0.5.0.jar`
-- `cooperativa-esculpido-0.5.0.jar`
+- `cooperativa-esculpido-0.5.1.jar`
 - `cooperativa-estandartes-0.5.0.jar`
 - `cooperativa-interfaz-0.5.0.jar`
 - `cooperativa-interfaz-recursos-0.5.0.jar`
@@ -56,4 +56,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 19.
+Secuencia de publicación: 20.
