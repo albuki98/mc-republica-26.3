@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.6** (publicada el 20/10/2026 23:31)
+**Versión actual: 0.6.7** (publicada el 21/10/2026 23:12)
 
-El boton Entrar al koljos entra siempre a nuestro servidor aunque no sea el primero de tu lista de Multijugador; si no lo tienes guardado, abre Multijugador para anadirlo
+Nuevos bloques de construcción: losas verticales, escaleras de lado y cuartos de bloque (mod Extended Block Shapes). Solo hay que cerrar y volver a abrir el juego.
 
 ## Descargar
 
@@ -36,6 +36,7 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 - `cooperativa-vestimenta-0.5.0.jar`
 - `cooperativa-vida-0.5.0.jar`
 - `cryonicconfig-fabric-1.0.0+mc26.3.jar`
+- `extshape-fabric-3.1.6+mc26.3.jar`
 - `fabric-api-0.162.0+26.3.jar`
 - `mcarem-fabric-8.2.0+26.3.jar`
 
@@ -55,4 +56,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 18.
+Secuencia de publicación: 19.
