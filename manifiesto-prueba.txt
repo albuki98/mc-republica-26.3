@@ -1,8 +1,8 @@
 republica-manifiesto 1
-secuencia 23
-version 0.6.11
-publicado 2026-10-23T22:45:18+02:00
-notas La radio ya acepta los enlaces de mezclas de YouTube (los de start_radio): suena la mezcla entera empezando por su canción.
+secuencia 24
+version 0.6.12
+publicado 2026-10-23T23:17:38+02:00
+notas Los cuadros aceptan GIF animados (cuadros 0.5.1).
 gestionar cooperativa-*.jar
 gestionar chisel-fabric-*.jar
 gestionar cryonicconfig-fabric-*.jar
@@ -11,7 +11,7 @@ gestionar extshape-fabric-*.jar
 gestionar fabric-api-*.jar
 mod 2eb7107f45e26c2356dc994c109fa5e0337da048a7c08ebb02ec659285934d56 8319293 chisel-fabric-2.2.1+mc26.3.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/2eb7107f45e26c2356dc994c109fa5e0337da048a7c08ebb02ec659285934d56/chisel-fabric-2.2.1%2Bmc26.3.jar
 mod 21c3d8360386d7da1d4ec146f1700fee76b212ae1dc61082c999ee1eebf72c4a 40975 cooperativa-cigarros-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/21c3d8360386d7da1d4ec146f1700fee76b212ae1dc61082c999ee1eebf72c4a/cooperativa-cigarros-0.5.0.jar
-mod 9c6fea9944b95c9df429789954786861580c40ca0560905aff80361bdf8aa095 45607 cooperativa-cuadros-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/9c6fea9944b95c9df429789954786861580c40ca0560905aff80361bdf8aa095/cooperativa-cuadros-0.5.0.jar
+mod 70b0c0a542abf9170f5c682e9d9806d0f6010f5ea9a1585ddeb5453af8f9324c 55062 cooperativa-cuadros-0.5.1.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/70b0c0a542abf9170f5c682e9d9806d0f6010f5ea9a1585ddeb5453af8f9324c/cooperativa-cuadros-0.5.1.jar
 mod f7919d6b5f1b1ff5871bc3009722a78ab334988c86041b37b5944960598330aa 24865 cooperativa-decoracion-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/f7919d6b5f1b1ff5871bc3009722a78ab334988c86041b37b5944960598330aa/cooperativa-decoracion-0.5.0.jar
 mod 02066b6b51068fb530b399c4d7cce2f9c9107ab8fe91dc6c7b61d530acfd8717 72387 cooperativa-esculpido-0.5.3.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/02066b6b51068fb530b399c4d7cce2f9c9107ab8fe91dc6c7b61d530acfd8717/cooperativa-esculpido-0.5.3.jar
 mod b1db5f6ed959f01b7e31fc3ec2594c4869e5a2a92f644e903e27fdca1d52c727 43985 cooperativa-estandartes-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/b1db5f6ed959f01b7e31fc3ec2594c4869e5a2a92f644e903e27fdca1d52c727/cooperativa-estandartes-0.5.0.jar
@@ -26,4 +26,4 @@ mod 8626c189b702f466800b1c8ddac6203cf8a1e0bdaee75a5f9a33b18c2baa81b1 1772377 fab
 mod 477676dee80402a2507473f5df9e3d230f992bcbd9da4a8da1762d49f9b4316a 10103216 mcarem-fabric-8.2.0+26.3.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/477676dee80402a2507473f5df9e3d230f992bcbd9da4a8da1762d49f9b4316a/mcarem-fabric-8.2.0%2B26.3.jar
 config e1782ca8abe3ebbdcac6efb6ebb8b14a298f5b01c908e9f9e565024cda364d12 595 e1782ca8abe3 config/mca.json https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/e1782ca8abe3ebbdcac6efb6ebb8b14a298f5b01c908e9f9e565024cda364d12/mca.json
 nucleo b0a1be62f4e05d427c6a657e3e31582fa94eb0dce1388645f77311259a99ebec 17525 https://raw.githubusercontent.com/albuki98/mc-republica-26.3/prueba/archivos/b0a1be62f4e05d427c6a657e3e31582fa94eb0dce1388645f77311259a99ebec/nucleo.jar
-firma voC27wqh5R2WR2L4caERGaCxOr1Gt3Y7mtK6RNf2tMu9BQrY8lGNKWc+x1SkSG2GfUQYfKYGRuQEnRzi03sRCg==
+firma sAnrd41GRAfdks6UOINdyVT9h0fkDhRZ72Rhj8k3KuTujTuQD71UEL5dpVV+S44c6murjC5QbsWqWM5HBVh5Cw==
