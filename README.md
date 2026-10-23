@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.10** (publicada el 23/10/2026 14:11)
+**Versión actual: 0.6.11** (publicada el 23/10/2026 22:45)
 
-Arreglo de texturas: las losas mixtas y las esculturas ya tienen las vetas y los dibujos en la misma dirección que los bloques normales (techos y paredes sin patrones raros).
+La radio ya acepta los enlaces de mezclas de YouTube (los de start_radio): suena la mezcla entera empezando por su canción.
 
 ## Descargar
 
@@ -34,7 +34,7 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 - `cooperativa-interfaz-recursos-0.5.0.jar`
 - `cooperativa-nucleo-0.5.0.jar`
 - `cooperativa-vestimenta-0.5.0.jar`
-- `cooperativa-vida-0.5.0.jar`
+- `cooperativa-vida-0.5.1.jar`
 - `cryonicconfig-fabric-1.0.0+mc26.3.jar`
 - `extshape-fabric-3.1.6+mc26.3.jar`
 - `fabric-api-0.162.0+26.3.jar`
@@ -56,4 +56,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 22.
+Secuencia de publicación: 23.
