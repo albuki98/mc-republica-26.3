@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.15** (publicada el 24/10/2026 21:59)
+**Versión actual: 0.6.16** (publicada el 25/10/2026 17:05)
 
-Pausa del mundo: tecla J o boton del menu de pausa (cooperativa-pausa 0.1.0).
+Armas con municion: Makarov, Mosin, PPSh y AK; mercenarios de la Compania y patrullas automaticas lejos de las aldeas. Recarga con R y capitulos nuevos en la Guia (G).
 
 ## Descargar
 
@@ -25,11 +25,13 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 ## Qué incluye
 
 - `chisel-fabric-2.2.1+mc26.3.jar`
+- `cooperativa-armamento-0.1.0.jar`
 - `cooperativa-cigarros-0.5.0.jar`
 - `cooperativa-cuadros-0.5.2.jar`
 - `cooperativa-decoracion-0.5.0.jar`
 - `cooperativa-esculpido-0.5.3.jar`
 - `cooperativa-estandartes-0.5.0.jar`
+- `cooperativa-frente-0.1.0.jar`
 - `cooperativa-interfaz-0.5.0.jar`
 - `cooperativa-interfaz-recursos-0.5.0.jar`
 - `cooperativa-nucleo-0.5.0.jar`
@@ -57,4 +59,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 27.
+Secuencia de publicación: 28.
