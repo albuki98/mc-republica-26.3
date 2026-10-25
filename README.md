@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.16** (publicada el 25/10/2026 17:05)
+**Versión actual: 0.6.17** (publicada el 25/10/2026 18:33)
 
-Armas con municion: Makarov, Mosin, PPSh y AK; mercenarios de la Compania y patrullas automaticas lejos de las aldeas. Recarga con R y capitulos nuevos en la Guia (G).
+Armas: clic izquierdo dispara y clic derecho apunta; la PPSh dispara una bala cada vez; el AK suena una vez por bala; mas dano contra jugadores; los aldeanos se pueden armar (agachado + clic derecho con el arma).
 
 ## Descargar
 
@@ -25,13 +25,13 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 ## Qué incluye
 
 - `chisel-fabric-2.2.1+mc26.3.jar`
-- `cooperativa-armamento-0.1.0.jar`
+- `cooperativa-armamento-0.2.0.jar`
 - `cooperativa-cigarros-0.5.0.jar`
 - `cooperativa-cuadros-0.5.2.jar`
 - `cooperativa-decoracion-0.5.0.jar`
 - `cooperativa-esculpido-0.5.3.jar`
 - `cooperativa-estandartes-0.5.0.jar`
-- `cooperativa-frente-0.1.0.jar`
+- `cooperativa-frente-0.1.1.jar`
 - `cooperativa-interfaz-0.5.0.jar`
 - `cooperativa-interfaz-recursos-0.5.0.jar`
 - `cooperativa-nucleo-0.5.0.jar`
@@ -59,4 +59,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 28.
+Secuencia de publicación: 29.
