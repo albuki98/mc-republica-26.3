@@ -2,9 +2,9 @@
 
 Mods del servidor República de los Bloques. **Se instala una vez y luego se actualiza solo** cada vez que pulsas *Jugar*.
 
-**Versión actual: 0.6.18** (publicada el 30/10/2026 22:34)
+**Versión actual: 0.6.19** (publicada el 31/10/2026 13:44)
 
-vida 0.6.0: sillas y sofás donde sentarse (los aldeanos también se sientan), 19 muebles soviéticos de época (lámparas, cortinas, stenka y nevera que guardan cosas...) y teles Rubin y KVN-49 que reproducen vídeos de YouTube
+Resumen de materiales del almacén abierto
 
 ## Descargar
 
@@ -36,6 +36,7 @@ Si el juego ya estaba abierto cuando se actualizó el servidor, ciérralo y vuel
 - `cooperativa-interfaz-recursos-0.5.0.jar`
 - `cooperativa-nucleo-0.5.0.jar`
 - `cooperativa-pausa-0.1.0.jar`
+- `cooperativa-resumen-0.1.0.jar`
 - `cooperativa-vestimenta-0.5.0.jar`
 - `cooperativa-vida-0.6.0.jar`
 - `cryonicconfig-fabric-1.0.0+mc26.3.jar`
@@ -59,4 +60,4 @@ Los mods `cooperativa-*` son del servidor (MIT). Se redistribuyen sin modificar:
 - Cryonic Config — MIT — <https://github.com/matthewperiut/cryonicconfig>
 - Minecraft Comes Alive Remastered — GPL-3.0 — <https://github.com/AncientKira21/mcarem>
 
-Secuencia de publicación: 30.
+Secuencia de publicación: 31.

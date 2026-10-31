@@ -1,8 +1,8 @@
 republica-manifiesto 1
-secuencia 30
-version 0.6.18
-publicado 2026-10-30T22:34:52+01:00
-notas vida 0.6.0: sillas y sofás donde sentarse (los aldeanos también se sientan), 19 muebles soviéticos de época (lámparas, cortinas, stenka y nevera que guardan cosas...) y teles Rubin y KVN-49 que reproducen vídeos de YouTube
+secuencia 31
+version 0.6.19
+publicado 2026-10-31T13:44:25+01:00
+notas Resumen de materiales del almacén abierto
 gestionar cooperativa-*.jar
 gestionar chisel-fabric-*.jar
 gestionar cryonicconfig-fabric-*.jar
@@ -21,6 +21,7 @@ mod c5b75a64b694eac69596c666f6fe964338e0f0ba75a77ece443b1ccdd6256371 278229 coop
 mod d0a260b83c810fabc6629d409aeac49478f69bdc0c64f65623e10c369ed0885d 21976213 cooperativa-interfaz-recursos-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/d0a260b83c810fabc6629d409aeac49478f69bdc0c64f65623e10c369ed0885d/cooperativa-interfaz-recursos-0.5.0.jar
 mod 3789dce13dcc0751ec4987e3674e14a78e26b10abf8519ac25d6b49c8b5e94a4 137422 cooperativa-nucleo-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/3789dce13dcc0751ec4987e3674e14a78e26b10abf8519ac25d6b49c8b5e94a4/cooperativa-nucleo-0.5.0.jar
 mod ba76a839f8c81455bf777f68cf954f0938509b44200b2324930df690dd5e60ec 15474 cooperativa-pausa-0.1.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/ba76a839f8c81455bf777f68cf954f0938509b44200b2324930df690dd5e60ec/cooperativa-pausa-0.1.0.jar
+mod a35de67e016de05689bf4803841d2dfafc8a1643fe74a1502755a601693ff916 71490 cooperativa-resumen-0.1.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/a35de67e016de05689bf4803841d2dfafc8a1643fe74a1502755a601693ff916/cooperativa-resumen-0.1.0.jar
 mod 826b73293a7846c1387a08d7cc253a4b53f5c48cbdb893fdf4d315e011082cf9 27062 cooperativa-vestimenta-0.5.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/826b73293a7846c1387a08d7cc253a4b53f5c48cbdb893fdf4d315e011082cf9/cooperativa-vestimenta-0.5.0.jar
 mod 3733b705013f4f4f78c2d0a8e43952816a60e1870bff8a8f118b72d019792eb2 352033 cooperativa-vida-0.6.0.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/3733b705013f4f4f78c2d0a8e43952816a60e1870bff8a8f118b72d019792eb2/cooperativa-vida-0.6.0.jar
 mod 0b2f2b9d618360d2a7e3406805d36a77c1f80e24492e83c2433e9faeea47257d 20263 cryonicconfig-fabric-1.0.0+mc26.3.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/0b2f2b9d618360d2a7e3406805d36a77c1f80e24492e83c2433e9faeea47257d/cryonicconfig-fabric-1.0.0%2Bmc26.3.jar
@@ -29,4 +30,4 @@ mod 8626c189b702f466800b1c8ddac6203cf8a1e0bdaee75a5f9a33b18c2baa81b1 1772377 fab
 mod 477676dee80402a2507473f5df9e3d230f992bcbd9da4a8da1762d49f9b4316a 10103216 mcarem-fabric-8.2.0+26.3.jar https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/477676dee80402a2507473f5df9e3d230f992bcbd9da4a8da1762d49f9b4316a/mcarem-fabric-8.2.0%2B26.3.jar
 config e1782ca8abe3ebbdcac6efb6ebb8b14a298f5b01c908e9f9e565024cda364d12 595 e1782ca8abe3 config/mca.json https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/e1782ca8abe3ebbdcac6efb6ebb8b14a298f5b01c908e9f9e565024cda364d12/mca.json
 nucleo b0a1be62f4e05d427c6a657e3e31582fa94eb0dce1388645f77311259a99ebec 17525 https://raw.githubusercontent.com/albuki98/mc-republica-26.3/main/archivos/b0a1be62f4e05d427c6a657e3e31582fa94eb0dce1388645f77311259a99ebec/nucleo.jar
-firma zbNsO22kY7/lpaREz2kCMkUBp/S/6h4ZfrzDtOXG3WKdWspBFsvGBIs3ARg478qB/BJ9EkTWN3zOD8oYjYmMDA==
+firma wtTYfwez0x/e5+hI+p377MiLHintZ2GjlVdH7xVDl798q6328+JI9IvQfhz0rOe918tUJWiZMINRZOZD7+9CCw==
